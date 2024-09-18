@@ -1,0 +1,6 @@
+*.pdf
+result.json
+refactoring-toy-example/
+chromedriver-win64/
+chromedriver-win64.zip
+RepoFolder/*
