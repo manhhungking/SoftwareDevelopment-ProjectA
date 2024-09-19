@@ -5,3 +5,5 @@ chromedriver-win64/
 chromedriver-win64.zip
 RepoFolder/*
 .vscode/
+RefactoringMiner-Result/
+github-oauth.properties
