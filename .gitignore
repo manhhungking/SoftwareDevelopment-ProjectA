@@ -7,3 +7,5 @@ RepoFolder/*
 .vscode/
 RefactoringMiner-Result/
 github-oauth.properties
+*.log
+CommitMessages/
