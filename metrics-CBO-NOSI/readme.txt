@@ -1,0 +1,1 @@
+For detailed implementation description, check the project's report.
