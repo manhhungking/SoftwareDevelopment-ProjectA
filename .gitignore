@@ -10,3 +10,4 @@ github-oauth.properties
 *.log
 CommitMessages/
 CommitDiff
+!SD_Maintenance_Operation_Final_Project.pdf

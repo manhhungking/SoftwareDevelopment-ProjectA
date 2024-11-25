@@ -39,9 +39,13 @@ Here are the links to our results:
 
 - Result metrics (1b) from MINOR to EXP: https://unioulu-my.sharepoint.com/:u:/g/personal/htrinh23_student_oulu_fi/Ec1HkAgYd-1JjjPX1e5aetUBb4_TcLkkvxkWsL_qP0W9dg?e=4NNIp7
 
-- Result metrics (2) from ND to SEXP: https://unioulu-my.sharepoint.com/:u:/g/personal/htrinh23_student_oulu_fi/ES8yDdfZ0udJhHPri4y27cABKpCGGMDIOx5lJzXjvojkdg?e=4GxEgv
+- Result metrics (2) from ND to SEXP: https://unioulu-my.sharepoint.com/:u:/g/personal/htrinh23_student_oulu_fi/ES8yDdfZ0udJhHPri4y27cABKpCGGMDIOx5lJzXjvojkdg?e=fVD0k2
 
 - Result metrics (3) from CBO to NOSI: https://unioulu-my.sharepoint.com/:u:/g/personal/htrinh23_student_oulu_fi/EZv0N4SfocZGm1LCk6XxOjgBxb2WBphjP5PmhhhWLindsw?e=xhCWbn
+
+### Report
+
+You can find more details in our report at [SD_Maintenance_Operation_Final_Project.pdf](SD_Maintenance_Operation_Final_Project.pdf)
 
 **_ Note _**
 
